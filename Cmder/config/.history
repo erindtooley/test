@@ -1,0 +1,60 @@
+mkdir
+mkdir fake
+cd fake
+clear
+npm init
+mkdir fake
+clear
+cd fake
+npm init
+ls
+npm install --save-dev eslint eslint-config-google
+npm install --save-dev prettier-eslint
+cat package.json
+cd fake
+clear
+npm init
+mkdir fake
+clear
+cd fake
+npm init
+npm install --save-dev eslint eslint-config-google
+npm install --save-dev prettier-eslint
+git push
+desktop
+desktop/swic_classes
+desktop/
+cis177-starter
+help
+dir
+cd\
+cd folder
+cd \user
+cd users\etooley\desktop\swic_classes
+dir/d c:\desktop
+dir/d c:swic_classes
+dir/d c:
+user
+users
+dir/d c:\users
+dir/d c:\users\etooley
+ dir/d c:\users\etooley\desktop\
+ dir/d c:\users\etooley\desktop\swic classes
+dir/d c:\users\etooley\desktop\swic_classes
+cd
+\users
+\users\
+users\etooley
+dir users
+c:\users
+cd command
+cd users
+cd etooley
+cd desktop
+cd swic_classes
+cd swic classes
+ls
+cd cis 177 javascript
+cd cis-177-master
+cat package.json
+npm install
